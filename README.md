@@ -6,3 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/swarvanusg/
 
 
+[![Vanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=s8sg)](https://github.com/s8sg)
+
